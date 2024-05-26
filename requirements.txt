@@ -1,0 +1,7 @@
+py-cord @ git+https://github.com/Pycord-Development/pycord@cc0cf1a49f17bf3b91a74a303f36c82f2c43b451
+aiosqlite==0.17.0
+aiohttp==3.8.1
+colorama==0.4.6
+scrapetube==2.5.1
+PyYAML==6.0.1
+chat_exporter==2.6.1
